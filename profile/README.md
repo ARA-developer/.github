@@ -41,7 +41,7 @@ We closed this function for renewal
 # Member
 |Name|이준희|차주한|정우성|이동훈|이동건|
 |:---:|:---:|:---:|:---:|:---:|:--:|
-|Part|Android & iOS|Desktop & BackEnd|Android & BackEnd & Web page|Android|Android|
+|Part|Android & iOS|Desktop & BackEnd|Desktop & BackEnd & Web page|Android|Android|
 |Github|[JoonLee-K](https://github.com/JoonLee-K)|[hanchaa](https://github.com/hanchaa)|[mung3477](https://github.com/mung3477)|[ldh019](https://github.com/ldh019)|[activedg](https://github.com/activedg)|
 
 # Milestone
